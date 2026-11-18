@@ -1,8 +1,8 @@
-# Najm Aldain Monasser – Portfolio_١
+# Najm Aldain Monasser – Portfolio
 
 Personal portfolio of a .NET / ASP.NET Core backend developer based in Riyadh, Saudi Arabia.
 
-Live site: https://najmaldain-monasser.github.io/portfolio/
+Live site: https://najmaldain-monasser.github.io/portfolio_1/
 
 ## Contact
 - Email: najmaldain.monasser@gmail.com
